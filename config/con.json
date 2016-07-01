@@ -1,8 +1,8 @@
 [
 	{
-	 "module" : "dir"
+	 "module" : "dirlistener"
 	},
 	{
-	 "module" : "env"
+	 "module" : "environment"
 	}
 ]
