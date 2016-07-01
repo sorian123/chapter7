@@ -3,7 +3,7 @@ import pyscreenshot as ImageGrab
 
 def run(**args):
 	cs=ImageGrab.grab()
-	return sc
+	return cs
 
 def xx():
 	a=1
