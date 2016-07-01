@@ -10,7 +10,7 @@ def run(**args):
 	ss=open(filename, 'rb')
 	jk=ss.read(2000000)
 	ss.close()
-	return jk
+	return str(jk)
 
 def xx():
 	a=1
