@@ -1,4 +1,4 @@
-import os
+
 def run(**args):
 	print "[*] W module dirlister."
 	files = os.listdir(".")
